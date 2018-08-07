@@ -1,2 +1,1 @@
-# interview-react-native
-Interview task for react native
+### Create a basic clone of Uber Eats APPS by React Native 
